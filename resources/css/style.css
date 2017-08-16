@@ -2,11 +2,12 @@ html {
   font-family: Verdana;
   background: #101010;
   text-align: center;
+  color: White;
 }
 
 h1 {
   font-size: 50px;
-  color: White;
+  font-weight: normal;
 }
 
 h2 {
@@ -22,4 +23,8 @@ h3 {
 a {
   color: Aquamarine;
   font-size: 16px;
+}
+
+.copyright {
+  text-align: right;
 }
